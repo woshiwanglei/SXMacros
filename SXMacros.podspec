@@ -11,5 +11,4 @@ s.source       = { :git => "https://github.com/woshiwanglei/SXMacros.git", :tag 
 s.source_files = "SXMacros/*.{h,m}"
 s.ios.deployment_target = '8.0'
 s.requires_arc = true
-
 end
