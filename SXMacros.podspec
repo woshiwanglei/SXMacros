@@ -9,6 +9,6 @@ s.license= { :type => "MIT", :file => "LICENSE" }
 s.author       = { "Lei Wang" => "773734781@qq.com" }
 s.source       = { :git => "https://github.com/woshiwanglei/SXMacros.git", :tag => s.version }
 s.source_files = "SXMacros/*.{h,m}"
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '10.0'
 s.requires_arc = true
 end
